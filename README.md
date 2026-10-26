@@ -12,6 +12,7 @@
 - [Codex Aeternum](canon/04-codex-aeternum.md)
 - [วิธีใช้เวทและการเปิดเผยคัมภีร์](canon/05-spellcasting-and-revelation.md)
 - [ตัวเอก: สิ่งที่ยืนยันแล้ว](canon/06-protagonist.md)
+- [อาจารย์หญิง — บัลลังก์เวทสรรพศาสตรา](canon/07-magic-throne-mentor.md)
 - [โครงสร้างการวางแผนนิยาย](development/novel-outline.md)
 - [ประเด็นที่ยังไม่ตัดสินใจ](development/open-questions.md)
 
