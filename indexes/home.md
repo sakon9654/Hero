@@ -18,6 +18,8 @@ tags: [index, home]
 - [[indexes/characters|Characters]]
 - [[continuity/continuity-index|Continuity ledgers]]
 - [[indexes/templates|Templates]]
+- [[manuscript/README|Manuscript workspace]]
+- [[manuscript/part-01/volume-01/index|ภาค 1 เล่ม 1 — โครง 12 ตอน]]
 
 ## Canon sources
 - [[canon/01-world|World premise]]
@@ -34,5 +36,7 @@ tags: [index, home]
 - [[canon/12-mage-grade-and-spell-tier|Mage Grade & Spell Tier]]
 - [[canon/13-part-one-license-goal|Part 1 license goal]]
 - [[canon/14-vesper|Vesper]]
+- [[canon/15-part-one-volume-count|Part 1 / Volume 1 structure]]
+- [[canon/16-ren-magic-and-hero-ensemble|Ren & hero ensemble]]
 
 > ใช้ Graph View เพื่อสำรวจลิงก์ ใช้ Properties เพื่อกรองสถานะ และยึด `canon_status` เป็นตัวป้องกันไม่ให้ proposed/TBD กลายเป็น canon โดยไม่ตั้งใจ
