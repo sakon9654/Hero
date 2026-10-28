@@ -9,7 +9,7 @@ Clone repository แล้วเลือก **Open folder as vault** ที่�
 
 ## ระบบนิยายระยะยาว
 - [[indexes/events|Event Index]] — เหตุการณ์ E001–E008 แยกเป็นโน้ต พร้อมเวลา ผู้เกี่ยวข้อง สถานะ และแหล่ง canon
-- [[indexes/characters|Character Index]] — โปรไฟล์ตัวละคร canon และ placeholder ที่แยก TBD
+- [[indexes/characters|Character Index]] — โปรไฟล์ตัวละคร canon พร้อมแยกรายละเอียด TBD
 - [[continuity/timeline|Master Timeline]] — ตารางลำดับพร้อมลิงก์ไป Event Notes
 - [[continuity/relationship-ledger|Relationship Ledger]]
 - [[continuity/knowledge-ledger|Knowledge Ledger]]
@@ -32,6 +32,7 @@ Clone repository แล้วเลือก **Open folder as vault** ที่�
 - [[canon/11-international-hero-academy|สถาบันฮีโร่นานาชาติ]]
 - [[canon/12-mage-grade-and-spell-tier|Mage Grade และ Spell Tier]]
 - [[canon/13-part-one-license-goal|เป้าหมายใบอนุญาตภาค 1]]
+- [[canon/14-vesper|Vesper]]
 
 ## หลักสำคัญ
 โลกนี้ไม่มีระบบยุทธภพ พลังปราณ หรือสำนักยุทธ์ และความเชื่อมั่น/ชื่อเสียงของผู้คนไม่เพิ่มพลังโดยตรง ทุกค่า TBD ต้องคงเป็น TBD จนกว่าผู้สร้างจะยืนยัน

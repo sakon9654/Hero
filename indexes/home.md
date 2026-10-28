@@ -27,5 +27,6 @@ tags: [index, home]
 - [[canon/11-international-hero-academy|Hero institute]]
 - [[canon/12-mage-grade-and-spell-tier|Mage Grade & Spell Tier]]
 - [[canon/13-part-one-license-goal|Part 1 license goal]]
+- [[canon/14-vesper|Vesper]]
 
 > ใช้ Graph View เพื่อสำรวจลิงก์ ใช้ Properties เพื่อกรองสถานะ และยึด `canon_status` เป็นตัวป้องกันไม่ให้ proposed/TBD กลายเป็น canon โดยไม่ตั้งใจ
