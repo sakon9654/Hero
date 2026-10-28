@@ -25,3 +25,10 @@
 
 - [จุดเปิดเรื่องและการเข้าโรงเรียนฮีโร่](canon/10-opening-and-hero-academy-entry.md)
 - [ระบบโรงเรียนฮีโร่นานาชาติและใบรับรอง](canon/11-international-hero-academy.md)
+
+## ระดับพลังและระบบความต่อเนื่อง
+- [Mage Grade และ Spell Tier](canon/12-mage-grade-and-spell-tier.md)
+- [Timeline และระบบ Continuity](continuity/README.md)
+- [เหตุการณ์ตามลำดับเวลา](continuity/timeline.md)
+- [สถานะและการรับรู้ความสามารถของเรน](continuity/ren-state.md)
+- [แม่แบบทะเบียนคาถา](continuity/spell-registry-template.md)
