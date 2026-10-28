@@ -18,3 +18,7 @@ repository canon ปัจจุบันยังไม่ยืนยันถ
 
 ## Rule
 เมื่อบันทึกบทสนทนา ให้ระบุว่าใครรู้ข้อมูลนั้นก่อนพูด ตรวจ [[continuity/knowledge-ledger]] และลิงก์กลับ Event Note ทุกครั้ง
+
+## Writing-voice reference (non-canon)
+- [[development/dialogue-reference-ren-mentor|คู่มือตัวอย่างบทสนทนาระหว่างเรนกับอาจารย์]] — เป็นแนวน้ำเสียง ไม่ใช่บทพูดที่รับรองเป็น Canon
+- ฉากที่แก้แล้ว: [[chapters/part-01/volume-01/chapter-01|Chapter 01]] (DRAFT)
