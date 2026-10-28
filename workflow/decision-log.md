@@ -13,5 +13,7 @@ tags: [workflow, canon, decisions]
 
 | DEC-004 | 2026-10-29 | อนุมัติแกนตัวละครฮีโร่ทั้งห้า เอเดนผู้ยังไม่เบ่งบาน ไคลน์บินและพละกำลังมหาศาล ไม่มีพลังแรงโน้มถ่วง แนวคิด Pure Mage ของเรน และความต่างมุมมองต่อเวทมนตร์ | [[canon/16-ren-magic-and-hero-ensemble]] | ผู้สร้างยืนยันโดยตรง | [1c49eee](https://github.com/sakon9654/Hero/commit/1c49eeee6280ab33f33943dcf70ddeb860d3d384) |
 
+| DEC-005 | 2026-10-29 | อนุมัติโครงภาค 1 เล่ม 1 จำนวน 12 ตอนและหน้าที่ระดับตอนเป็น CANON_ARC_DIRECTION; ให้จัดโครงสำหรับเขียนใน ChatGPT ภายหลัง โดย Scene plan ร้อยแก้ว บทสนทนา และรายละเอียด TBD ยังไม่เป็น canon | [[development/part-01-volume-01-outline]] · [[manuscript/part-01/volume-01/index]] | ผู้สร้างยืนยันโดยตรง | [80b9fe1](https://github.com/sakon9654/Hero/commit/80b9fe1590f719daf8d53718ede68b6c65562678) |
+
 ## Rule
 เพิ่มหนึ่งแถวต่อการตัดสินใจที่เปลี่ยน canon หรือกติกาการทำงาน ระบุไฟล์ที่ได้รับผลและ commit ทุกครั้ง
