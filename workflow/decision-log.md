@@ -15,5 +15,5 @@ tags: [workflow, canon, decisions]
 
 | DEC-005 | 2026-10-29 | อนุมัติโครงภาค 1 เล่ม 1 จำนวน 12 ตอนและหน้าที่ระดับตอนเป็น CANON_ARC_DIRECTION; ให้จัดโครงสำหรับเขียนใน ChatGPT ภายหลัง โดย Scene plan ร้อยแก้ว บทสนทนา และรายละเอียด TBD ยังไม่เป็น canon | [[development/part-01-volume-01-outline]] · [[manuscript/part-01/volume-01/index]] | ผู้สร้างยืนยันโดยตรง | [80b9fe1](https://github.com/sakon9654/Hero/commit/80b9fe1590f719daf8d53718ede68b6c65562678) |
 
-## Rule
+| DEC-005 | 2026-10-29 | อนุมัติให้ใช้ชื่อคาถาภาษาไทย/ทับศัพท์ไทยแบบผสมเป็นชื่อหลักในการเล่าเรื่อง โดยชื่ออังกฤษเป็น alias; ยืนยันชื่อใช้จริง 6 คาถาในตอน 1–3 | [[canon/17-tier-one-spell-display-names]] | ผู้สร้างยืนยัน | [8be2e61](https://github.com/sakon9654/Hero/commit/8be2e6148b4f7a4b3e6c0bba360d43b4183c4e4c) |\n\n## Rule
 เพิ่มหนึ่งแถวต่อการตัดสินใจที่เปลี่ยน canon หรือกติกาการทำงาน ระบุไฟล์ที่ได้รับผลและ commit ทุกครั้ง
