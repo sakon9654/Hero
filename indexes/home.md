@@ -7,6 +7,10 @@ tags: [index, home]
 
 ## Start here
 - [[README|Repository guide]]
+- [[OBSIDIAN_SETUP|Obsidian setup]]
+- [[WORKFLOW|GitHub × ChatGPT × Obsidian workflow]]
+- [[workflow/chatgpt-inbox|ChatGPT Inbox]]
+- [[workflow/decision-log|Canon Decision Log]]
 - [[CANON_POLICY|Canon policy]]
 - [[indexes/events|Events]]
 - [[indexes/characters|Characters]]

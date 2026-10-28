@@ -4,8 +4,22 @@
 
 > Source of truth: `canon/` เก็บข้อเท็จจริงที่ผู้สร้างยืนยันแล้ว; `development/` และโน้ตที่มี `canon_status: PROPOSED|UNDECIDED` สำหรับสิ่งที่ยังไม่เป็น canon
 
+## ระบบทำงานร่วมกัน
+นิยายนี้ใช้ [[WORKFLOW|GitHub × ChatGPT × Obsidian Workflow]]:
+- **GitHub** เก็บแหล่งความจริง ประวัติ diff และ commits
+- **Obsidian** เป็นโต๊ะทำงานสำหรับอ่าน แก้ เชื่อมโยง และตรวจ backlinks
+- **ChatGPT** ช่วยเขียน วิเคราะห์ ตรวจ continuity และแก้ repository เมื่อได้รับอนุญาต
+- [[workflow/chatgpt-inbox|ChatGPT Inbox]] เก็บคิวงาน
+- [[workflow/decision-log|Canon Decision Log]] เก็บคำตัดสินของผู้สร้าง
+
 ## เปิดด้วย Obsidian
-Clone repository แล้วเลือก **Open folder as vault** ที่โฟลเดอร์รากของ Hero จากนั้นเริ่มที่ [[indexes/home|Vault Home]] ลิงก์ทั้งหมดใช้รูปแบบ Obsidian Wikilinks และโน้ตข้อมูลมี YAML Properties
+Repository มีการตั้งค่า `.obsidian/` พร้อมใช้งานแล้ว Clone repository แล้วเลือก **Open folder as vault** ที่โฟลเดอร์รากของ Hero จากนั้นเริ่มที่ [[indexes/home|Vault Home]]
+
+- [[OBSIDIAN_SETUP|คู่มือเปิดและใช้งาน Obsidian]]
+- ลิงก์ภายในใช้ Obsidian Wikilinks
+- โน้ตข้อมูลใช้ YAML Properties
+- Templates core plugin ชี้ไปที่โฟลเดอร์ `templates/`
+- ไฟล์แนบใหม่เก็บใน `attachments/`
 
 ## ระบบนิยายระยะยาว
 - [[indexes/events|Event Index]] — เหตุการณ์ E001–E008 แยกเป็นโน้ต พร้อมเวลา ผู้เกี่ยวข้อง สถานะ และแหล่ง canon
@@ -14,7 +28,7 @@ Clone repository แล้วเลือก **Open folder as vault** ที่�
 - [[continuity/relationship-ledger|Relationship Ledger]]
 - [[continuity/knowledge-ledger|Knowledge Ledger]]
 - [[continuity/dialogue-ledger|Dialogue Ledger]]
-- [[indexes/templates|Templates]] — เพิ่มเหตุการณ์ ตัวละคร ความสัมพันธ์ ความรู้ และบทสนทนา
+- [[indexes/templates|Templates]]
 - [[continuity/continuity-index|Continuity Index]]
 
 ## Canon
