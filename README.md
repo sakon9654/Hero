@@ -4,6 +4,11 @@
 
 > Source of truth: `canon/` เก็บข้อเท็จจริงที่ผู้สร้างยืนยันแล้ว; `development/` และโน้ตที่มี `canon_status: PROPOSED|UNDECIDED` สำหรับสิ่งที่ยังไม่เป็น canon
 
+## เริ่มแชตใหม่
+- AI/Codex ที่เข้าถึง repository ให้เริ่มจาก [[AGENTS|AGENTS.md]]
+- แชตทั่วไปให้เปิดหรือแนบ [[CHATGPT_CONTEXT|ChatGPT Start Here]]
+- ทั้งสองไฟล์กำหนดกติกาอ่าน canon, แยก TBD และอัปเดต continuity แบบเดียวกันทุกแชต
+
 ## ระบบทำงานร่วมกัน
 นิยายนี้ใช้ [[WORKFLOW|GitHub × ChatGPT × Obsidian Workflow]]:
 - **GitHub** เก็บแหล่งความจริง ประวัติ diff และ commits

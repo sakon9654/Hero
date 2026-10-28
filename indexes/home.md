@@ -6,6 +6,8 @@ tags: [index, home]
 # HERO — Obsidian Vault Home
 
 ## Start here
+- [[AGENTS|Instructions for every AI/chat]]
+- [[CHATGPT_CONTEXT|ChatGPT Start Here]]
 - [[README|Repository guide]]
 - [[OBSIDIAN_SETUP|Obsidian setup]]
 - [[WORKFLOW|GitHub × ChatGPT × Obsidian workflow]]
