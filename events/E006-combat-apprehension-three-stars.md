@@ -1,10 +1,10 @@
 ---
 id: E006
 type: event
-canon_status: CANON_WITH_TBD_TIMING
-time_anchor: "T+ early school period"
+canon_status: CANON_WITH_TBD_DETAILS
+time_anchor: "at E005 institute arrival (certificate already held)"
 time_precision: TBD
-story_order: after-E005
+story_order: at-E005
 reveal_order: TBD
 participants:
   - "[[characters/ren-arden|Ren Arden]]"
@@ -23,10 +23,10 @@ tags: [event, canon, certification]
 # E006 — Combat & Apprehension 3-star certification
 
 ## Canon fact
-ช่วงต้นที่โรงเรียน เรนมี/ได้รับใบรับรองเฉพาะทาง Combat & Apprehension ระดับ 3 ดาวจากความสามารถที่โรงเรียนประเมินจริง
+เรน **มีใบรับรองเฉพาะทาง Combat & Apprehension ระดับ 3 ดาวอยู่แล้วตั้งแต่เข้ามาถึงสถาบัน (E005)** จากความสามารถที่ผ่านการประเมินตามระบบของสถาบัน
 
 ## Continuity constraints
-- เวลาที่ได้และรายละเอียดการประเมินยังเป็น TBD
+- เวลา/กระบวนการประเมินและรับรองก่อนหรือ ณ การมาถึงยัง TBD; **ห้ามเขียนให้เรนเพิ่งได้รับ 3 ดาวหลังเริ่มเรียน**
 - ใบรับรองนี้ไม่ใช่ใบอนุญาตฮีโร่มืออาชีพ ไม่ใช่ Mage Grade และไม่ใช่ Spell Tier
 - Rescue และ Teamwork ของเรนยังค่อนข้างต่ำ จึงยังมีอุปสรรคในการร่วมทีมบางภารกิจ
 
