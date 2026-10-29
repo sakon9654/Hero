@@ -1,6 +1,6 @@
 ---
 type: chapter
-canon_status: DRAFT
+canon_status: APPROVED_MANUSCRIPT
 part: 1
 volume: 1
 chapter: 6
@@ -198,4 +198,4 @@ tags: [novel, draft, part-01, volume-01]
 “ฉันจะอ่านเงื่อนไขก่อน นายไม่ต้องเตือนทุกอย่างก็ได้”
 
 ---
-*สถานะ DRAFT — รอตรวจและอนุมัติโดยผู้สร้าง*
+*สถานะ APPROVED — ผู้สร้างอนุมัติ 2026-10-29*
