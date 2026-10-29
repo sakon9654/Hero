@@ -81,3 +81,13 @@ tags: [continuity, draft, chapter-handoff]
 - Ren sees Klein only in a public training publicity display; their actual first conversation remains chapter 5. Klein has NOT learned Ren's certification from chapter 4.
 - At the end Ren receives notice of Home Unit appointment and performance assessment scheduling. Chapter 5 can begin with Ren entering the shared room, as an outsider to its existing social circle.
 - Chapter 4 REVISED_PENDING_APPROVAL supersedes all earlier notes implying Aiden fetched Ren, gave a full tour, or introduced him socially.
+
+## CH05 full rewrite supersedes earlier CH05 notes (2026-10-29)
+- Approved **writing-style reference**: [[development/narrative-style-reference-chapter-04]]; the author confirmed chapter 4's natural progression, grounded dialogue and independent student lives as the standard for subsequent chapters.
+- CH05 Ren visits a Home Unit adviser **alone** after chapter 4's notification; learns performance-assessment and mission-team basics from staff, not from an instant friend group.
+- Leon/Mira/Celine and Aiden are busy preparing a rescue demonstration. Ren briefly sees them in a shared area and then independently watches the exercise from a designated gallery.
+- Klein's **first direct meeting** with Ren occurs later at a certification/schedule notice board by coincidence. Klein notices Ren's three-star Combat & Apprehension certificate, compares it to his own two-star certificate, and is seriously skeptical because he has not witnessed Ren's actual apprehension skills.
+- Ren and Klein separate without a personal contest or friendship. Klein remains a capable rising star with innate flight and tremendous physical strength only.
+- Ren returns to his room and prepares for the six-axis performance assessment in CH06. No meeting with the whole group is planned and no friend status established.
+- Earlier CH05 notes implying a group welcome, casual closeness, lengthy chat about Aiden's funding needs, or Klein reading the card in shared room are superseded by this revised manuscript.
+- CH05 revised manuscript requires author review; update chapter 6 opening if it implies the group had already informally welcomed Ren.
