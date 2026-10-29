@@ -69,3 +69,8 @@ tags: [continuity, draft, chapter-handoff]
 - CH08 trust declines after Ren's unilateral move; Mira is seriously displeased, Leon considers whether to keep the squad arrangement.
 - CH09 a supervised retry demonstrates improved coordination but does not grant personal closeness: competence trust is distinct from friendship.
 - CH04–06 had been approved in their earlier versions; these social-distance revisions need fresh creator review. CH07–09 remain DRAFT.
+
+## Klein certification / knowledge checkpoint
+- Klein holds Combat & Apprehension **2 stars**, Ren holds **3 stars** upon arrival; both are Specialist Certificates, not professional hero licenses.
+- CH05 Klein first learns of Ren's three-star certificate and strongly doubts whether Ren's actual apprehension ability meets that level; he has not yet witnessed Ren's opening street incident.
+- This is professional skepticism, not established personal hostility. Klein and Ren are not close friends yet; their comparative overall ability is not settled by the certificate.
