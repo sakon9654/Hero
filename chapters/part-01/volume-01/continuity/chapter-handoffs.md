@@ -74,3 +74,10 @@ tags: [continuity, draft, chapter-handoff]
 - Klein holds Combat & Apprehension **2 stars**, Ren holds **3 stars** upon arrival; both are Specialist Certificates, not professional hero licenses.
 - CH05 Klein first learns of Ren's three-star certificate and strongly doubts whether Ren's actual apprehension ability meets that level; he has not yet witnessed Ren's opening street incident.
 - This is professional skepticism, not established personal hostility. Klein and Ren are not close friends yet; their comparative overall ability is not settled by the certificate.
+
+## CH04 rewrite supersedes older CH04 handoff (2026-10-29)
+- Full chapter 4 rewritten. Ren enters academy alone, registers by ordinary queue, already holds Combat & Apprehension 3-star specialist certificate, receives ID and dorm room. Other students do not anticipate or welcome him.
+- Ren explores campus and moves into dorm on his own. No friend-group reunion; no Leon escort request. Aiden and Ren only run into each other briefly at an equipment shop while each handles separate errands.
+- Ren sees Klein only in a public training publicity display; their actual first conversation remains chapter 5. Klein has NOT learned Ren's certification from chapter 4.
+- At the end Ren receives notice of Home Unit appointment and performance assessment scheduling. Chapter 5 can begin with Ren entering the shared room, as an outsider to its existing social circle.
+- Chapter 4 REVISED_PENDING_APPROVAL supersedes all earlier notes implying Aiden fetched Ren, gave a full tour, or introduced him socially.
