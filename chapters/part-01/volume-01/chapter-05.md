@@ -1,6 +1,6 @@
 ---
 type: chapter
-canon_status: DRAFT
+canon_status: APPROVED_MANUSCRIPT
 part: 1
 volume: 1
 chapter: 5
