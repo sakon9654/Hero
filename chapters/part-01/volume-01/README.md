@@ -20,3 +20,11 @@ canon_status: DRAFT
 - ทุกสามตอน (1–3, 4–6, 7–9, 10–12) ตรวจความสอดคล้องแล้วค่อยรวบอัปเดต Master Timeline, Knowledge Ledger และ Relationship Ledger **ทีเดียว** หลังเนื้อหาช่วงนั้นผ่านการตรวจ
 - หากพบข้อขัดแย้งกับ Canon ที่ยืนยันแล้ว ให้แก้/แจ้งทันที ไม่ต้องรอรอบสามตอน
 - รักษาความแตกต่างระหว่าง Mage Grade, Spell Tier, Combat & Apprehension 3 ดาว และใบอนุญาตเป้าหมาย
+
+## Latest author approvals / chapter files (2026-10-29)
+- Chapters 01–06: APPROVED by creator. Chapter 04–06 metadata updated.
+- [[chapters/part-01/volume-01/chapter-07|ตอน 7 — กระดานภารกิจ]] — DRAFT
+- [[chapters/part-01/volume-01/chapter-08|ตอน 8 — จับได้ไม่เท่ากับสำเร็จ]] — DRAFT
+- [[chapters/part-01/volume-01/chapter-09|ตอน 9 — ภาพที่ไม่ได้เห็น]] — DRAFT
+- Chapters 10–12: PLANNED.
+- [[chapters/part-01/volume-01/continuity/chapter-handoffs|Chapter handoffs]] retains transition details.
