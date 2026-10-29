@@ -59,3 +59,13 @@ tags: [continuity, draft, chapter-handoff]
 - Review reveals incomplete visibility; Ren communicates the planned binding location before action in a retry.
 - Improved teamwork, not perfect. Next chapter should address Rescue/Teamwork and license research.
 - Master ledger sync at block approval; drafts do not change world Canon.
+
+## Social distance revision checkpoint (2026-10-29)
+- Chapters 04–09 were edited following creator feedback: Ren should NOT become an established friend immediately after joining the academy.
+- CH04 Aiden meets Ren by coincidence in a campus corridor, gives directions, and goes to his own work; Leon did not send him as personal escort.
+- CH05 Ren encounters an existing group using shared space; respectful acquaintance, not an automatic new group member. Klein's introduction remains brief.
+- CH06 Ren mainly debriefs with academy staff; Aiden is a casual acquaintance, not a close confidant. The six-axis assessment and three-star certificate distinction remain unchanged.
+- CH07 Leon, Mira, Celine and Aiden consider Ren for one mission based on eligibility and explicitly negotiated working conditions, NOT friendship.
+- CH08 trust declines after Ren's unilateral move; Mira is seriously displeased, Leon considers whether to keep the squad arrangement.
+- CH09 a supervised retry demonstrates improved coordination but does not grant personal closeness: competence trust is distinct from friendship.
+- CH04–06 had been approved in their earlier versions; these social-distance revisions need fresh creator review. CH07–09 remain DRAFT.
