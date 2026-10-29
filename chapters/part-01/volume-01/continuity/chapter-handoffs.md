@@ -41,3 +41,21 @@ tags: [continuity, draft, chapter-handoff]
 - ส่วนนี้เป็น **working summary สำหรับช่วงแรก**; เมื่อตรวจ/อนุมัติต้นฉบับของตอน 1–3 ให้ถ่ายข้อมูลที่ยืนยันแล้วไปยัง [[continuity/timeline]], [[continuity/relationship-ledger]], [[continuity/knowledge-ledger]] ทีเดียว
 - เหตุการณ์ช่วงนี้แสดงหน้าที่ของ [[events/E004-opening-skirmish|E004]] แต่ **อย่าแก้ข้อเท็จจริงใน Event Canon จาก DRAFT โดยอัตโนมัติ**
 - หากแก้ตอนใด ให้ทบทวน handoff ของตอนนั้นและทุกตอนถัดไปที่พึ่งพาฉากที่แก้
+
+## CH04–CH06 APPROVED
+- CH04 Ren enters academy with Combat & Apprehension three-star certification already held.
+- CH05 Ren meets Klein; Aiden discusses funding and technical information limits; group practices rescue.
+- CH06 six-axis performance assessment, NOT star certification; Combat and Analysis strengths, Rescue and Teamwork gaps.
+
+## CH07 → CH08 DRAFT
+- Five-member mission squad: Ren, Leon, Mira, Aiden, Celine. Klein is not in this squad.
+- First selected mission fails team qualification; team chooses an eligible simulation. Leon assigns roles.
+
+## CH08 → CH09 DRAFT
+- Ren catches simulation suspect using Vector Shift, Friction Weave, Arcane Bind, but blocks evacuation path and fails coordination requirements.
+- Celine could not finish investigation; team plans multi-camera review.
+
+## CH09 → CH10 DRAFT
+- Review reveals incomplete visibility; Ren communicates the planned binding location before action in a retry.
+- Improved teamwork, not perfect. Next chapter should address Rescue/Teamwork and license research.
+- Master ledger sync at block approval; drafts do not change world Canon.
