@@ -1,6 +1,6 @@
 ---
 type: chapter
-canon_status: DRAFT
+canon_status: APPROVED_MANUSCRIPT
 part: 1
 volume: 1
 chapter: 4
@@ -208,4 +208,4 @@ tags: [novel, draft, part-01, volume-01]
 และดูเหมือนเขากำลังจะได้เห็นมันใกล้ ๆ กว่าที่เคย
 
 ---
-*สถานะ DRAFT — รอตรวจและอนุมัติโดยผู้สร้าง*
+*สถานะ APPROVED — ผู้สร้างอนุมัติ 2026-10-29*
