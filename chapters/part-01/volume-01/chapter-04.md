@@ -1,6 +1,6 @@
 ---
 type: chapter
-canon_status: REVISED_PENDING_APPROVAL
+canon_status: APPROVED_MANUSCRIPT
 part: 1
 volume: 1
 chapter: 4
@@ -335,4 +335,4 @@ tags: [novel, revised, part-01, volume-01]
 และเรนก็ยังไม่รู้จักมันเช่นกัน
 
 ---
-*REVISED_PENDING_APPROVAL — เขียนใหม่ทั้งตอนตามข้อสังเกตเรื่องบทสนทนาและความสัมพันธ์; รอผู้สร้างตรวจ*
+*APPROVED — ผู้สร้างอนุมัติต้นฉบับฉบับล่าสุด 2026-10-30*
