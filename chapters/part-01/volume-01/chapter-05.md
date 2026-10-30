@@ -1,6 +1,6 @@
 ---
 type: chapter
-canon_status: REVISED_PENDING_APPROVAL
+canon_status: APPROVED_MANUSCRIPT
 part: 1
 volume: 1
 chapter: 5
@@ -323,4 +323,4 @@ tags: [novel, revised, part-01, volume-01]
 เวสเปอร์จัดปากกาให้ตรงขอบโต๊ะ แล้วคลายตัวลงบนพนักเก้าอี้พักอย่างเงียบ ๆ
 
 ---
-*REVISED_PENDING_APPROVAL — เขียนใหม่ตามแนวทางเล่าเรื่องจากตอนที่ 4; รอผู้สร้างตรวจ*
+*APPROVED — ผู้สร้างอนุมัติต้นฉบับฉบับล่าสุด 2026-10-30*
