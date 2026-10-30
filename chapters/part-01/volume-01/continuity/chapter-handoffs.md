@@ -91,3 +91,10 @@ tags: [continuity, draft, chapter-handoff]
 - Ren returns to his room and prepares for the six-axis performance assessment in CH06. No meeting with the whole group is planned and no friend status established.
 - Earlier CH05 notes implying a group welcome, casual closeness, lengthy chat about Aiden's funding needs, or Klein reading the card in shared room are superseded by this revised manuscript.
 - CH05 revised manuscript requires author review; update chapter 6 opening if it implies the group had already informally welcomed Ren.
+
+## CH04–06 latest checkpoint (2026-10-30)
+- CH04 and CH05 latest rewritten versions APPROVED by creator.
+- CH06 newly rewritten DRAFT: solo six-axis assessment. Combat/Analysis strong, Rescue/Teamwork need development. No established social group or reunion.
+- Ren reaches simulated injured victim but needs medical guidance before moving them. Separately he apprehends a simulated target but blocks another trainee's route through insufficient communication.
+- Ren reviews mission requirements in his room. CH07 should follow his own investigation of mission selection, not an invitation from close friends.
+- Klein remains skeptical of Ren's three-star certification; does not attend CH06 assessment.
