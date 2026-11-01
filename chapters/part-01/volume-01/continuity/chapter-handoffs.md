@@ -98,3 +98,9 @@ tags: [continuity, draft, chapter-handoff]
 - Ren reaches simulated injured victim but needs medical guidance before moving them. Separately he apprehends a simulated target but blocks another trainee's route through insufficient communication.
 - Ren reviews mission requirements in his room. CH07 should follow his own investigation of mission selection, not an invitation from close friends.
 - Klein remains skeptical of Ren's three-star certification; does not attend CH06 assessment.
+
+## CH06 character-arc correction (2026-11-02)
+- Ren remains highly confident in his own magic and tends to act on his own solution before coordinating. He is polite to evaluators but not yet persuaded to slow down or defer to teammates.
+- Rescue: he prepares to move the victim with magic before confirming medical restrictions, and only pauses when directly questioned.
+- Teamwork: he captures the target quickly but obstructs another trainee. He still values speed and seeks faster communication, rather than immediately accepting others' pace.
+- CH07–09 must depict gradual change, not an already reformed Ren at the end of CH06. Previous CH06 handoff summaries implying immediate acceptance are superseded.
