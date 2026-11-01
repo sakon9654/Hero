@@ -104,3 +104,11 @@ tags: [continuity, draft, chapter-handoff]
 - Rescue: he prepares to move the victim with magic before confirming medical restrictions, and only pauses when directly questioned.
 - Teamwork: he captures the target quickly but obstructs another trainee. He still values speed and seeks faster communication, rather than immediately accepting others' pace.
 - CH07–09 must depict gradual change, not an already reformed Ren at the end of CH06. Previous CH06 handoff summaries implying immediate acceptance are superseded.
+
+## CH06 approval / CH07 rewritten handoff (2026-11-02)
+- Creator approved latest CH06: Ren acts according to his own instincts, confidently values swift capture, and remains unconvinced that slowing down is the right answer. CH06 is APPROVED_MANUSCRIPT.
+- CH07 rewritten DRAFT according to approved CH04–06 narrative pacing. Ren independently investigates the mission board, asks staff about matching, then approaches Leon's group only because their posted task needs apprehension skills.
+- Five-person temporary squad: Ren, Leon, Mira, Aiden, Celine. Recruitment is tentative and negotiated. Mira remains cautious; Leon sets coordination conditions; Ren agrees to communicate locations but still believes he should seize fast openings.
+- A harder mission is blocked by team Teamwork average. They register for an eligible supervised training simulation instead, for the next day. No professional license or real field mission is granted.
+- CH07 closes with Ren independently surveying the training field and continuing to prioritize acting fast. CH08 should expose consequences rather than show instant social intimacy. Klein is NOT a member of this squad.
+- Earlier CH07 text and handoffs that imply Aiden spontaneously mentors Ren or the others gather specifically for him are superseded.
