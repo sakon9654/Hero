@@ -1,6 +1,6 @@
 ---
 type: chapter
-canon_status: DRAFT
+canon_status: APPROVED_MANUSCRIPT
 part: 1
 volume: 1
 chapter: 7
@@ -267,4 +267,4 @@ tags: [novel, draft, part-01, volume-01]
 และพวกนั้นก็คงอยากรู้เช่นกันว่าใบรับรองสามดาวช่วยอะไรได้จริงบ้าง
 
 ---
-*สถานะ DRAFT — เขียนใหม่ต่อจากตอน 6 ฉบับอนุมัติ รอผู้สร้างตรวจ*
+*สถานะ APPROVED — ผู้สร้างอนุมัติฉบับล่าสุด 2026-11-02*
