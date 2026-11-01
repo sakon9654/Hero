@@ -112,3 +112,10 @@ tags: [continuity, draft, chapter-handoff]
 - A harder mission is blocked by team Teamwork average. They register for an eligible supervised training simulation instead, for the next day. No professional license or real field mission is granted.
 - CH07 closes with Ren independently surveying the training field and continuing to prioritize acting fast. CH08 should expose consequences rather than show instant social intimacy. Klein is NOT a member of this squad.
 - Earlier CH07 text and handoffs that imply Aiden spontaneously mentors Ren or the others gather specifically for him are superseded.
+
+## CH07 approved / CH08 new draft (2026-11-02)
+- Latest CH07 (with explicit illustration of binding the suspect at an alley mouth while Mira may need the same evacuation route) is APPROVED_MANUSCRIPT.
+- CH08 rewritten: first supervised simulation of the five-person temporary squad; Ren identifies and binds the correct suspect with Vector Shift, Friction Weave, Arcane Bind. His location announcement comes as he casts, too late for Mira to reroute an evacuation trolley.
+- The binding blocks a narrow alley; a loosened overhead sign complicates movement. Mira must retreat to safety. Celine cannot finish verifying a possible second person. Capture succeeds but evacuation/coordination criteria partly fail.
+- Mira is genuinely upset; Leon explicitly has not decided whether to continue the squad. Ren agrees to review footage tomorrow at 10 AM but is still convinced his apprehension technique was effective. No reconciliation or sudden friendship.
+- CH09 must begin with scheduled multi-angle review, preserve consequences and gradual change; do not imply Ren already accepts blame completely or the team is socially close. CH08 DRAFT awaiting approval.
