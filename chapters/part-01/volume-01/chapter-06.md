@@ -1,6 +1,6 @@
 ---
 type: chapter
-canon_status: DRAFT
+canon_status: APPROVED_MANUSCRIPT
 part: 1
 volume: 1
 chapter: 6
@@ -187,4 +187,4 @@ related_canon:
 “ก็ฉันยังไม่รู้จักใครพอจะชวนเลยนี่”
 
 ---
-*สถานะ DRAFT — เขียนใหม่ตามแนวทางตอน 4–5 รอผู้สร้างตรวจ*
+*สถานะ APPROVED — ผู้สร้างอนุมัติฉบับล่าสุด 2026-11-02*
